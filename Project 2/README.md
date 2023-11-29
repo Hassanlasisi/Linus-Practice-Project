@@ -11,3 +11,7 @@
 ## CD change in directory, navigating through folders and files
 
 ![](Images/Snipaste_2023-11-29_11-49-54.png)
+
+## LS to list all the file in directories with a system
+
+![Alt text](Images/Snipaste_2023-11-29_12-00-08.png)
