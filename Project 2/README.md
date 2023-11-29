@@ -15,3 +15,7 @@
 ## LS to list all the file in directories with a system
 
 ![Alt text](Images/Snipaste_2023-11-29_12-00-08.png)
+
+## Touche command, to create an empty folder and modify a timestamp using Linux commands
+
+![Alt text](Images/Snipaste_2023-11-29_12-50-52.png)
