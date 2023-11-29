@@ -6,6 +6,8 @@
 
 ## PWD, i use the pwd command t0 find the path of my current dirctory
 
-![](Images/Snipaste_2023-11-29_11-03-17.png)
+![Alt text](Images/Snipaste_2023-11-29_11-29-05.png)
 
+## CD change in directory, navigating through folders and files
 
+![](Images/Snipaste_2023-11-29_11-49-54.png)
