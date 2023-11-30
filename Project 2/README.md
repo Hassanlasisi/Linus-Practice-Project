@@ -59,3 +59,9 @@
 ## DU COMMAND, to check how much space a directory or file takes up
 
 ![Alt text](Images/Snipaste_2023-11-30_15-33-40.png)
+
+## HEAD COMMAND. to display first ten line of a file
+
+## TAIL COMMAND. to display the last 10 line of file
+
+![Alt text](Images/Snipaste_2023-11-30_16-08-52.png)
