@@ -47,3 +47,7 @@
 ## RM filename, to remove file, also to remove mutiple files
 
 ![alt text](Images/Snipaste_2023-11-30_14-32-48.png)
+
+## Locate -i to locate file in database system
+
+![git](Images/Snipaste_2023-11-30_14-51-19.png)
