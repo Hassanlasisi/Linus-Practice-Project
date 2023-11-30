@@ -31,3 +31,7 @@
 ## MV used to rename file the as ubuntu
 
 ![Alt text](Images/Snipaste_2023-11-30_13-05-03.png)
+
+## MKDIR, to make new directory called new_folder
+
+![Alt text](Images/Snipaste_2023-11-30_13-25-23.png)
