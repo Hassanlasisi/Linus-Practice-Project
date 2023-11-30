@@ -20,6 +20,10 @@
 
 ![Alt text](Images/Snipaste_2023-11-29_12-50-52.png)
 
-## CP, to files, directories and their contents
+## CP, to copy files, directories and their contents
 
 ![Alt text](Images/Snipaste_2023-11-30_11-33-16.png)
+
+## MV to move and rename file and directories
+
+![Alt text](Images/Snipaste_2023-11-30_11-55-40.png)
