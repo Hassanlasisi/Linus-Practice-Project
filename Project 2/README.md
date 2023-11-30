@@ -27,3 +27,7 @@
 ## MV to move and rename file and directories
 
 ![Alt text](Images/Snipaste_2023-11-30_11-55-40.png)
+
+## MV used to rename file the as ubuntu
+
+![Alt text](Images/Snipaste_2023-11-30_13-05-03.png)
