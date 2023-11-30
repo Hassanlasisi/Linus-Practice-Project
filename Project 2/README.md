@@ -69,3 +69,11 @@
 ## CHMOD COMMAND. modifies a file or directory's read, write and execute permission
 
 ![Alt text](Images/Snipaste_2023-11-30_16-26-21.png)
+
+## UNAME COMMAND. detial information about your linux and hardware
+
+![Alt text](Images/Snipaste_2023-11-30_16-44-18.png)
+
+## TOP COMMAND. diplays all the running process and real view
+
+![Alt text](Images/Snipaste_2023-11-30_16-50-13.png)
