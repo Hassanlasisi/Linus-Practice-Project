@@ -35,3 +35,11 @@
 ## MKDIR, to make new directory called new_folder
 
 ![Alt text](Images/Snipaste_2023-11-30_13-25-23.png)
+
+## MKDIR new_folder/old_folder to make a new directory called old_folder in new_folder
+
+![Alt text](Images/Snipaste_2023-11-30_13-30-56.png)
+
+## RMDIR -p new_folder/old_folder, to permenently delete an emty directory.
+
+![Alt text](Images/Snipaste_2023-11-30_14-10-58.png)
