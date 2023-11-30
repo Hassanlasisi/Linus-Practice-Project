@@ -55,3 +55,7 @@
 ## d -h to see the current directory's disk space in human readable format
 
 ![alt text](Images/Snipaste_2023-11-30_15-24-45.png)
+
+## DU COMMAND, to check how much space a directory or file takes up
+
+![Alt text](Images/Snipaste_2023-11-30_15-33-40.png)
