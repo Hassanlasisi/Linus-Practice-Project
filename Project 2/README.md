@@ -16,6 +16,10 @@
 
 ![Alt text](Images/Snipaste_2023-11-29_12-00-08.png)
 
-## Touche command, to create an empty folder and modify a timestamp using Linux commands
+## Touch command, to create an empty folder and modify a timestamp using Linux commands
 
 ![Alt text](Images/Snipaste_2023-11-29_12-50-52.png)
+
+## CP, to files, directories and their contents
+
+![Alt text](Images/Snipaste_2023-11-30_11-33-16.png)
