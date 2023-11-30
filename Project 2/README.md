@@ -65,3 +65,7 @@
 ## TAIL COMMAND. to display the last 10 line of file
 
 ![Alt text](Images/Snipaste_2023-11-30_16-08-52.png)
+
+## CHMOD COMMAND. modifies a file or directory's read, write and execute permission
+
+![Alt text](Images/Snipaste_2023-11-30_16-26-21.png)
