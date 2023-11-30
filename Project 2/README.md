@@ -43,3 +43,7 @@
 ## RMDIR -p new_folder/old_folder, to permenently delete an emty directory.
 
 ![Alt text](Images/Snipaste_2023-11-30_14-10-58.png)
+
+## RM filename, to remove file, also to remove mutiple files
+
+![alt text](Images/Snipaste_2023-11-30_14-32-48.png)
