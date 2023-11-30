@@ -50,4 +50,8 @@
 
 ## Locate -i to locate file in database system
 
-![git](Images/Snipaste_2023-11-30_14-51-19.png)
+![alt text](Images/Snipaste_2023-11-30_14-51-19.png)
+
+## d -h to see the current directory's disk space in human readable format
+
+![alt text](Images/Snipaste_2023-11-30_15-24-45.png)
