@@ -81,3 +81,7 @@
 ## APT-GET. used for handling advanced package tool APT in liberies in Linux
 
 ![Alt text](Images/Snipaste_2023-12-01_08-31-04.png)
+
+## HOST NAME -I display host name or to know the host name
+
+![Alt text](Images/Snipaste_2023-12-01_08-45-58.png)
