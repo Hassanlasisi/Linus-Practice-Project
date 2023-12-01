@@ -85,3 +85,7 @@
 ## HOST NAME -I display host name or to know the host name
 
 ![Alt text](Images/Snipaste_2023-12-01_08-45-58.png)
+
+## HTOP mornitor system resources and server processes in real time
+
+![Alt text](Images/Snipaste_2023-12-01_08-55-29.png)
