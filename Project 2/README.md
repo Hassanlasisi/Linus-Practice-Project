@@ -77,3 +77,7 @@
 ## TOP COMMAND. diplays all the running process and real view
 
 ![Alt text](Images/Snipaste_2023-11-30_16-50-13.png)
+
+## APT-GET. used for handling advanced package tool APT in liberies in Linux
+
+![Alt text](Images/Snipaste_2023-12-01_08-31-04.png)
