@@ -89,3 +89,7 @@
 ## HTOP mornitor system resources and server processes in real time
 
 ![Alt text](Images/Snipaste_2023-12-01_08-55-29.png)
+
+PS command produce the snap shot of all running process in your system.
+
+![Alt test](Images/Snipaste_2023-12-01_09-06-28.png)
